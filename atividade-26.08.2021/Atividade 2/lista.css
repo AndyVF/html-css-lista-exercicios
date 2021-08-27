@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    display: inline-block;
+    border: solid;
+    color: pink;
+    width: 150px;
+    height: 200px;
+}
+
+li {
+color: indigo;
+}

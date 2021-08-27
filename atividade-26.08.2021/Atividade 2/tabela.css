@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.item1 {
+    color: lightgreen;
+    background-color: darkgray;
+}
+
+.item3 {
+    background-color: darkgray;
+}
+
+.item2 {
+    color: lightgreen;
+}
+
+.item4 {
+    color: red;
+}
+
+#tab, h3 {
+    margin-left: 2%;
+}
+
+th, h3 {
+    font-family: 'versalete' sans-serif;
+    font-style: italic;
+} 
+
+.item5 {
+    color: red;
+    background-color: darkgray;
+}
+
+h3 {
+    color: blue;
+}

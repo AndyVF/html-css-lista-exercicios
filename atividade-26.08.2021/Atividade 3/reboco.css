@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: pink;
+}
+
+h1 {
+    text-shadow: 0.1em 0.1em red;
+    text-align: center;
+}
+
+.container {
+    background: white;
+    height: 245px;
+    border: solid orange;
+    width: 1320px;
+    margin-left: 1%;
+}
+
+p {
+    text-align: center;
+    margin: 36px;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    margin: 16px;
+    margin-left: 34%;
+    border-radius: 5% 5%;
+    box-shadow: 9px 7px 5px orange;
+    
+}
+
+.item {
+    background: white;
+    height: 15px;
+    margin-top: -20px;
+}

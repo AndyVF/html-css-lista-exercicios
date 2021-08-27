@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cyan;
+}
+
+h1 {
+    font-style: italic;
+    font-family: 'versalete' sans-serif;
+    text-align: center;
+}
+
+p {
+    color:darkred;
+    text-align: right;
+    text-transform: capitalize;
+}
